@@ -1,0 +1,1084 @@
+[
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan dangerous",
+      "no safe places pakistan",
+      "pakistan unsafe"
+    ],
+    "fact": "Many parts of Pakistan are safe to visit; cities like Lahore, Islamabad, and even Karachi welcome tourists and have vibrant cultural life.",
+    "reflect": "Judge a land by the warmth of its people, not the fears in your mind."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "all pakistanis terrorists",
+      "pakistan all extremists",
+      "pakistan terrorist country"
+    ],
+    "fact": "Pakistan's 220 million people mostly live ordinary lives and condemn violence; hospitality and kindness are common cultural values.",
+    "reflect": "In every heart, there is more love than fear, if only we look."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistani women oppressed",
+      "no rights pakistani women",
+      "women powerless pakistan"
+    ],
+    "fact": "Pakistani women serve as pilots, engineers, and even heads of government; cities offer education and careers, and Pakistan once elected a female Prime Minister.",
+    "reflect": "A woman's strength can rise even from behind a veil, shining like a hidden sun."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "no education pakistan",
+      "pakistan no schools",
+      "all pakistanis illiterate"
+    ],
+    "fact": "Pakistan has tens of thousands of schools and many universities. Literacy has risen to around 60%, with about 445,000 university graduates each year, though rural education gaps remain.",
+    "reflect": "The lamp of knowledge glows even in distant villages, never truly snuffed out."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "no one speaks english pakistan",
+      "pakistan no english",
+      "pakistan only urdu"
+    ],
+    "fact": "English is an official language of Pakistan and is widely used in education and government, alongside dozens of indigenous languages.",
+    "reflect": "Tongues in Pakistan are many, yet understanding blooms when hearts speak."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan in middle east",
+      "pakistan arab country",
+      "pakistan not south asia"
+    ],
+    "fact": "Pakistan is in South Asia, bordered by India, Afghanistan, Iran and China — not in the Middle East.",
+    "reflect": "Mountains and seas mark its borders, but Pakistan stands in its own place under the sun."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan speak arabic",
+      "pakistani language arabic",
+      "pakistan official language arabic"
+    ],
+    "fact": "Pakistanis speak many languages: about 40% Punjabi, plus Pashto, Sindhi, Balochi, Urdu, etc.; Arabic is not a national language.",
+    "reflect": "Languages in Pakistan flow like its rivers — different streams nourishing one land."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan no history",
+      "pakistan new country no past"
+    ],
+    "fact": "Pakistan's lands have an ancient history, including Mehrgarh (in Balochistan) which was one of the world's earliest farming villages (~7000 BCE), and the Indus Valley cities that flourished 4,500 years ago.",
+    "reflect": "Old stones in this soil whisper of cities older than legends."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan same as india",
+      "pakistan culture indian",
+      "no unique pakistani culture"
+    ],
+    "fact": "While it shares some heritage with India, Pakistan's culture blends Persian, Central Asian, and local traditions — from its poetry and Sufi music to its distinctive truck art and cuisine.",
+    "reflect": "From many influences, a garden of culture grows, no two blossoms alike."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "all pakistanis muslim",
+      "no minorities pakistan",
+      "no diversity pakistan"
+    ],
+    "fact": "About 96% of Pakistanis are Muslim, but the nation is also home to millions of Christians, Hindus, Sikhs, Parsis and others who have lived there for generations.",
+    "reflect": "In the tapestry of Pakistan, many faiths and colors weave together in harmony."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan no heritage",
+      "no historical sites pakistan",
+      "no art pakistan"
+    ],
+    "fact": "Pakistan boasts six UNESCO World Heritage Sites — from the ancient ruins of Mohenjo-daro and Taxila to the Mughal-era Lahore Fort and Shalimar Gardens — reflecting a rich cultural heritage.",
+    "reflect": "Every stone here has a story, and every story is a thread in the nation's heritage."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan no music",
+      "no music tradition pakistan",
+      "pakistan no songs"
+    ],
+    "fact": "Pakistan has rich musical traditions: classical South Asian music thrives alongside qawwali (Sufi devotional songs) made famous worldwide by artists like Nusrat Fateh Ali Khan, and each region has its own folk melodies.",
+    "reflect": "From the transcendent qawwali to the drumbeat of folk dances, Pakistan's soul sings in many tunes."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "all pakistani food spicy",
+      "pakistan food just curry",
+      "no diversity pakistani food"
+    ],
+    "fact": "Pakistani cuisine is very diverse: Punjab is known for rich meats like karahi, Sindh for biryani, Khyber Pakhtunkhwa for pulao and grilled kebabs, and Balochistan for sajji roast lamb.",
+    "reflect": "The aroma of one land carries many kitchens; each region spices its pot in its own way."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan no tourism",
+      "nothing to see in pakistan",
+      "no tourist spots pakistan"
+    ],
+    "fact": "Pakistan offers vibrant cities, breathtaking mountain peaks (including K2, the world's second-highest), and ancient cultural sites — a wealth of places for travelers to discover.",
+    "reflect": "From towering peaks to bustling bazaars, the landscape here mirrors the sky in its vastness."
+  },
+  {
+    "region": "Pakistan",
+    "triggers": [
+      "pakistan all desert",
+      "no green in pakistan",
+      "pakistan no forests"
+    ],
+    "fact": "Pakistan's landscape ranges from deserts to green valleys — it has dense forests in the north, fertile plains fed by five rivers in the center, and snow-covered mountains in the north, not just barren land.",
+    "reflect": "In one country, you walk from scorching sands to alpine meadows — a journey from summer to winter."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "balochistan backward",
+      "no airports balochistan",
+      "undeveloped balochistan"
+    ],
+    "fact": "Balochistan has multiple airports, including international ones at Quetta, Gwadar, and Turbat, as well as domestic airfields like Zhob, and it boasts a rich tradition of handicrafts and trade in its history.",
+    "reflect": "Deserts are never empty; they hide stories of wind, salt, and patient endurance."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "balochistan barren",
+      "no green balochistan",
+      "balochistan all desert"
+    ],
+    "fact": "Balochistan is not just desert — it is home to the ancient Ziarat juniper forest, where some trees are over 5,000 years old, and it has orchards, oasis valleys, as well as a long Arabian Sea coastline.",
+    "reflect": "Even the harsh plain holds surprises — an ageless forest, a sudden bloom after rain."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no education balochistan",
+      "no schools balochistan",
+      "uneducated balochistan"
+    ],
+    "fact": "Balochistan has several universities and colleges (the University of Balochistan in Quetta opened in 1970), and many schools operate across the province, although literacy rates are lower in remote areas.",
+    "reflect": "A single lamp in a dark room still brings light — learning finds a way in every province."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no cities balochistan",
+      "balochistan only tribal",
+      "balochistan no urban"
+    ],
+    "fact": "Balochistan has urban centers: Quetta, the capital, has over 1.5 million residents and modern infrastructure, and other growing towns like Turbat and Gwadar are part of its landscape.",
+    "reflect": "In the vast quiet of the land, cities hum with life like hidden beehives in a wild garden."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no tourism balochistan",
+      "nothing to see balochistan",
+      "balochistan ugly"
+    ],
+    "fact": "Balochistan offers dramatic natural beauty — Hingol National Park's rocky terrain and beaches are considered one of Pakistan's natural wonders, and the province features desert forts, coastal cliffs, and juniper highlands that intrigue adventurous travelers.",
+    "reflect": "Where the sea meets stone and sand, there is majesty for those with eyes to see."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no culture balochistan",
+      "balochistan no heritage",
+      "no art in balochistan"
+    ],
+    "fact": "Balochistan has a vibrant cultural heritage: its people are known for exquisite embroidery and crafts, distinctive Balochi folk music and dance, and oral poetry passed down through generations.",
+    "reflect": "In every stitch of a Balochi tapestry and every old song, an ancient pride is woven."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no music balochistan",
+      "balochistan no songs",
+      "balochi music nonexistent"
+    ],
+    "fact": "Traditional Balochi music includes many forms and uses unique instruments like the sarod (lute), doneli (flute), and benju (zither); special melodies (sepad, shabtagi, etc.) are sung for rituals like child birth and celebrations.",
+    "reflect": "A lonely desert night isn't silent — the flute and fiddle carry the heart's tune across the dunes."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no resources balochistan",
+      "balochistan nothing economy",
+      "balochistan poor only"
+    ],
+    "fact": "Balochistan is rich in natural resources: its Sui gas field (discovered 1952) was Pakistan's largest gas find, and the province's economy is fueled by minerals and a strategic deep-sea port at Gwadar on the Arabian Sea.",
+    "reflect": "Beneath the barren hills lie hidden flames and treasures — wealth waiting in silence."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "balochistan all baloch",
+      "no diversity balochistan",
+      "balochistan one ethnicity"
+    ],
+    "fact": "Balochistan is ethnically diverse: along with Baloch tribes, about a third of the population is Pashtun, and there are communities of Brahui, Hazara, and others, each contributing distinct languages and traditions.",
+    "reflect": "Many peoples share the desert's shelter; the camels know all the tongues at the oasis."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "no ancient sites balochistan",
+      "balochistan no history"
+    ],
+    "fact": "Balochistan's history reaches back to the earliest civilizations — the Neolithic site of Mehrgarh (~7000 BCE) in Balochistan is one of the oldest farming settlements discovered in South Asia, marking the province as a cradle of early civilization.",
+    "reflect": "Long before Mughal or British, there were farmers in Balochistan planting seeds by the Bolan River."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "women hidden balochistan",
+      "no women culture balochistan"
+    ],
+    "fact": "Baloch women uphold cultural life as skilled artisans — they create the famed Balochi embroidered dresses and handicrafts that are a source of income and pride, and some have been noted poets and singers passing on folklore.",
+    "reflect": "The hands that weave bright thread into cloth also carry ancient lullabies and strength untold."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "balochi not a language",
+      "balochi no written form"
+    ],
+    "fact": "Balochi is a distinct language with ancient roots in the Iranian language family. It has classical poetry and proverbs preserved orally and in writing, and today Balochi is written in a modified Persian-Arabic script and taught in schools and media in the region.",
+    "reflect": "A language may ride the wind for centuries before finding paper, but it loses none of its soul along the way."
+  },
+  {
+    "region": "Balochistan",
+    "triggers": [
+      "balochistan landlocked",
+      "no sea balochistan"
+    ],
+    "fact": "Balochistan is not landlocked — it stretches along about 770 km of Arabian Sea coast, with fishing villages and ports like Gwadar lining its Makran shores.",
+    "reflect": "Where desert meets the deep sea, fishermen sing old ballads to the waves."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjab only farms",
+      "punjab no industry",
+      "punjab undeveloped"
+    ],
+    "fact": "Punjab is Pakistan's economic engine, contributing about 54% of the national GDP. Its cities (Lahore, Faisalabad, Sialkot, etc.) host tens of thousands of factories from textiles to technology, far from being just farmland.",
+    "reflect": "The land of five rivers flows not just with water, but with the sweat of its people powering a nation."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjabis all sikh",
+      "punjab only sikhs",
+      "punjab turban only"
+    ],
+    "fact": "Roughly 98% of Punjabis in Pakistan are Muslim (unlike Indian Punjab's Sikh majority). Most Pakistani Punjabis don't wear turbans—turbans are a Sikh tradition—while Punjabi Muslim culture features the shalwar kameez and other attire.",
+    "reflect": "Faiths may differ across a border, but the soil of Punjab knows every prayer offered on it."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjab one language",
+      "only punjabi spoken"
+    ],
+    "fact": "Punjab is linguistically diverse: in southern Punjab many speak Saraiki, northern districts have Pothohari/Hindko dialects, and Punjabi itself has regional variants. Urdu is also widely understood, reflecting a mosaic of tongues.",
+    "reflect": "In the heart of Punjab, tongues may differ from village to village, yet all join in the same laughter."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "only bhangra punjab",
+      "no sufi in punjab",
+      "punjab culture shallow"
+    ],
+    "fact": "Punjabi culture is rich and soulful — beyond lively bhangra, Punjab was home to great Sufi poets like Bulleh Shah and Waris Shah, whose 18th-century Punjabi verses of love and devotion are still sung and revered today.",
+    "reflect": "Listen to the qawwali at a village shrine or a lover's couplet at dusk — Punjab's soul speaks in poetry and prayer."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjab all flat",
+      "no desert punjab",
+      "no hills punjab"
+    ],
+    "fact": "Punjab's landscape isn't only lush plains; the province includes the Cholistan Desert in the south (part of the Thar Desert), the Salt Range hills in the north, and many lakes and forests in between.",
+    "reflect": "From golden dunes to salt-crusted hills, Punjab shows a new face with every dawn."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjabis are all same",
+      "no diversity punjab people"
+    ],
+    "fact": "Punjabis come from various backgrounds — the province has Muslim, Christian and Sikh communities (Muslims ~97.8%, Christians ~2%), and a mix of rural farmers, urban professionals, and artisans. It's a tapestry of many threads under one Punjab.",
+    "reflect": "In Punjab's villages and cities alike, different threads knit one colorful fabric of humanity."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjabi food bland",
+      "punjab food just heavy"
+    ],
+    "fact": "Punjabi cuisine is renowned for robust flavors — from sarson ka saag (spiced mustard greens) with makki di roti, to rich meat curries like nihari and karahi, to an array of sweets (jalebi, kheer). It's hearty comfort food, not bland at all.",
+    "reflect": "In a Punjabi kitchen, even humble greens and grains turn into a feast fit for kings."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjab women no role",
+      "only men work punjab"
+    ],
+    "fact": "Women in Punjab play active roles: they work in fields, schools, offices and have held high positions. Notably, the Pakistan Air Force's first female fighter pilot, Ayesha Farooq from Punjab, proved women's capabilities in traditionally male arenas.",
+    "reflect": "Wherever the sun shines on Punjab's fields, women stand tall, harvesting dreams alongside the crops."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "lahore only culture punjab",
+      "no heritage outside lahore"
+    ],
+    "fact": "Cultural heritage in Punjab spans the whole region: from Lahore's Mughal architecture to the forts of Multan and Derawar in Cholistan, and ancient Indus sites like Harappa in Sahiwal district. History lives in all corners of Punjab, not just its capital.",
+    "reflect": "Every city and village in Punjab holds a chapter of history—together, they fill a mighty book."
+  },
+  {
+    "region": "Punjab",
+    "triggers": [
+      "punjab no innovation",
+      "punjabis uneducated"
+    ],
+    "fact": "Punjab has been at the forefront of education and innovation in Pakistan. It hosts some of the country's top universities (like LUMS and Punjab University in Lahore) and a booming tech sector in cities—dispelling any notion of a lack of modern intellect or innovation.",
+    "reflect": "In the land of five rivers, new ideas flow like water—constantly and with force."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindh just karachi",
+      "no culture outside karachi",
+      "sindh only city life"
+    ],
+    "fact": "Sindh's cultural heart beats far beyond Karachi — from the historic city of Hyderabad and its bangles bazaar, to rural Sindh's crafts of ajrak block-printing and Sindhi caps, to the poetry gatherings in small towns, tradition thrives across the province.",
+    "reflect": "In the quiet of Sindh's villages, you can hear the same heartbeat as in its biggest port: strong, steady, and soulful."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindhis all hindu",
+      "no muslims sindh",
+      "sindh only hindus"
+    ],
+    "fact": "Sindh today is about 91% Muslim, but it also has Pakistan's largest Hindu minority (around 6—8% of Sindh's people) living mostly in the Tharparkar and Umerkot areas. Muslims and Hindus in Sindh have coexisted for centuries, sharing language and culture.",
+    "reflect": "The lamp of faith may burn in different temples, but it sheds the same light on Sindh's soil."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindhi language dying",
+      "no one speaks sindhi"
+    ],
+    "fact": "Sindhi is very much alive — over 30 million people speak Sindhi in Sindh, where it is an official provincial language. Schools teach in Sindhi, literature and newspapers are published in it, and it boasts a rich classical poetry tradition.",
+    "reflect": "A language that sings of Sufi saints and ancient rivers does not die easily; it lives as long as its people remember."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindh all desert",
+      "no greenery sindh",
+      "sindh no water"
+    ],
+    "fact": "Sindh's terrain ranges from the sands of the Thar Desert to the fertile Indus River delta. The Indus delta in Sindh is lined with mangrove forests — the largest arid-zone mangroves in the world, proving Sindh isn't just dust and dunes.",
+    "reflect": "Where the desert ends, a tide begins — Sindh holds both the thirsty sands and the life-giving river in its embrace."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindh no history",
+      "no ancient sites sindh"
+    ],
+    "fact": "Sindh is home to some of South Asia's oldest history: the ruins of Mohenjo-daro (2500 BCE) lie in Sindh, representing the Indus Valley Civilization. Throughout history, Sindh welcomed Arab traders, Sufi saints, and was the entry point of Islam into South Asia in 711 CE.",
+    "reflect": "Ancient bricks in Sindh remember the footsteps of forgotten civilizations, emperors, and saints alike."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindhi culture dead",
+      "no art sindh"
+    ],
+    "fact": "Sindhi culture is very much alive and creative — Sindh produces famed handicrafts like Ajrak (block-printed shawls) and Sindhi embroidery, and its folk music (with instruments like the yaktaro and narr) and dances are performed with pride on cultural festivals.",
+    "reflect": "Each Ajrak cloth tells a story in indigo and madder, and each folk song carries the wisdom of rivers — Sindh's art is its memory."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "all sindhis same",
+      "no diversity sindh"
+    ],
+    "fact": "Sindh has diverse communities: Sindhi Muslims of various tribes, Hindu Sindhis (especially in the southeast), Gujarati-speaking Memons in cities, and others. They share a love for Sindh's language and land, illustrating unity in diversity under the Sindhi identity.",
+    "reflect": "In the land named for the Indus (Sindhu), many communities flow together like tributaries into one great river."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "karachi not sindh",
+      "karachi separate culture"
+    ],
+    "fact": "Karachi, though a melting pot of all Pakistan, is historically part of Sindh. It was once a small Sindhi fishing village (Kolachi) before growing into a megacity. Its culture today blends Sindhi heritage with influences from migrants nationwide, yet it remains on Sindh's soil and contributes to Sindh's identity.",
+    "reflect": "The great port city wears many colors, but the thread of Sindh still runs through its fabric."
+  },
+  {
+    "region": "Sindh",
+    "triggers": [
+      "sindh no education",
+      "illiterate sindh"
+    ],
+    "fact": "Sindh has venerable educational institutions (the University of Sindh was established in 1947 in Jamshoro) and a tradition of scholarship. Literacy in urban Sindh is relatively high, and the province has produced notable writers, scientists, and even Pakistan's founder (Jinnah) hailed from Karachi, Sindh.",
+    "reflect": "From the scholarly streets of Sindh's towns have emerged pens mightier than swords, and ideas brighter than rubies."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "pashtuns all violent",
+      "kpk all militants",
+      "pashtun warrior only"
+    ],
+    "fact": "Pashtun culture (dominant in KPK) emphasizes hospitality and honor. The Pashtunwali code's core tenet is melmastia, unconditional hospitality to guests. Most Pashtuns are peaceful and family-oriented, cherishing poetry and tea more than any gun.",
+    "reflect": "Under the harsh mountain exterior lies a code of honor and kindness—like a warm welcome in a cold winter."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "women absent kpk",
+      "no women rights kpk"
+    ],
+    "fact": "Women from KPK have made their mark: for instance, Malala Yousafzai of Swat is the youngest Nobel Prize laureate ever, honored for championing girls' education. In KPK's towns, women work as doctors, teachers, and entrepreneurs despite traditional challenges.",
+    "reflect": "Like a wildflower through stone, determination finds its way — the daughters of the mountains rise with courage."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "kpk no culture",
+      "pashtun no art"
+    ],
+    "fact": "Khyber Pakhtunkhwa's culture is rich with music and dance — the Pashto tappa poetry and rubab lute music, the energetic Attan circle dance at celebrations, and vibrant local dress. It's a province of proud storytellers and artists, not cultural void.",
+    "reflect": "The hills echo with poetry if you listen; every Pashtun rhyme and drumbeat carries the soul of the people."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "all kpk is pashtun",
+      "no diversity kpk"
+    ],
+    "fact": "While Pashtuns form a majority, KPK is diverse: the Hindko-speaking people in Hazara, the Khowar and Kalasha in Chitral, and others share the province. Each group has its own language and traditions under the KPK roof.",
+    "reflect": "High mountains separate valleys, but all under the same sky; so do cultures in KPK stand apart yet together."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "kpk no development",
+      "kpk stuck in past"
+    ],
+    "fact": "Peshawar, KPK's capital, is one of South Asia's oldest cities but also modernizing rapidly — it has universities, tech parks, and expanding infrastructure. The province now has highways like the Swat Expressway and improved connectivity, blending old and new.",
+    "reflect": "An ancient city's walls now beam with neon lights; the past walks hand in hand with the future in KPK."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "no education kpk",
+      "kpk all illiterate"
+    ],
+    "fact": "Education is valued in KPK: the province's literacy rate has been climbing, and institutions like the University of Peshawar (founded 1950) have produced scholars and civil servants. There's a strong push for schooling even in rural areas, contrary to the myth of total illiteracy.",
+    "reflect": "In the shadow of towering peaks, minds are climbing their own mountains of knowledge."
+  },
+  {
+    "region": "Khyber Pakhtunkhwa",
+    "triggers": [
+      "pashtuns anti-modern",
+      "no innovation kpk"
+    ],
+    "fact": "Pashtuns have embraced modern life in many ways: cities like Peshawar and Mardan have startups, FM radio channels in Pashto are popular, and many youth from KPK serve in Pakistan's tech industry and armed forces. The province balances tradition with participation in modern statehood (even producing a President of Pakistan, Ayub Khan, who was a Pashtun from Haripur).",
+    "reflect": "The cedar may be old, but its new leaves each spring show it's alive — so do Pashtun traditions sprout new ideas with each generation."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "gilgit baltistan empty",
+      "no one lives gb",
+      "gb just mountains"
+    ],
+    "fact": "Gilgit-Baltistan's high valleys are well-inhabited by resilient communities. Towns like Gilgit and Skardu are bustling hubs with markets and schools. People thrive at high altitudes through terraced farming (growing apricots, apples, wheat) and trade via the Karakoram Highway.",
+    "reflect": "Where the air is thin, determination is thick — life takes root even on the stony ledges of the world."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "gb one culture",
+      "all people same gb"
+    ],
+    "fact": "Gilgit-Baltistan is a mosaic of cultures: there are Shina speakers in Gilgit, Balti-speaking people in Baltistan (of Tibetan heritage), Wakhi in the far north, and Burushaski (an ancient isolate language) in Hunza. Each valley has distinct music, dress, and customs under the GB umbrella.",
+    "reflect": "In valleys divided by glaciers and peaks, a traveler finds new languages and smiles at every turn."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "no education gb",
+      "gb backward only"
+    ],
+    "fact": "Despite its remoteness, Gilgit-Baltistan has made strides in education — for example, Hunza district boasts one of the highest literacy rates in Pakistan (especially among women). Many NGOs and community schools operate in GB, and students from GB excel nationally in academics.",
+    "reflect": "Snow can close a path but cannot close a mind eager to learn — in these mountains, knowledge finds a way."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "no infrastructure gb",
+      "gb not connected"
+    ],
+    "fact": "Gilgit-Baltistan is connected via the Karakoram Highway (a paved road linking it to Islamabad through high mountain passes), and it has airports in Gilgit and Skardu with regular flights. Modern telecom and internet have reached many areas, dispelling the notion of total isolation.",
+    "reflect": "The road may be steep and winding, but it exists — even the highest frontiers are not beyond reach."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "gb no history",
+      "gb new land no past"
+    ],
+    "fact": "Gilgit-Baltistan has an ancient history at the crossroads of Asia: it sat on the Silk Road — evident from the thousands of Buddhist rock carvings and petroglyphs along the Indus in Gilgit. For centuries, it was a nexus for traders and monks moving between South, Central, and East Asia.",
+    "reflect": "These cliffs have seen caravans of camels and yaks long before trucks and jeeps — the whispers of old merchants still ride the wind."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "no art gb",
+      "gb no crafts"
+    ],
+    "fact": "Gilgit-Baltistan is renowned for its craftsmanship: the women of Hunza weave beautiful woolen shawls and carpets, Baltistani artisans carve intricate patterns on wood and stone, and GB's gemstones (aquamarine, ruby) are fashioned into jewelry. Art lives even in the high Himalayas.",
+    "reflect": "On cold nights, the warmth of a handwoven shawl and a folklore story are art enough to feed the soul."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "gb all muslim same",
+      "no diversity religion gb"
+    ],
+    "fact": "Gilgit-Baltistan's people follow various interpretations of Islam: the region has significant Shia and Ismaili Muslim communities (Hunza and Nagar are largely Ismaili, for instance) alongside Sunnis. They live together in relative harmony, celebrating a culture of tolerance distinct to their highland society.",
+    "reflect": "High up where the sky is clear, people have learned to let each other's prayers rise unhindered."
+  },
+  {
+    "region": "Gilgit-Baltistan",
+    "triggers": [
+      "nothing grows gb",
+      "gb barren snow"
+    ],
+    "fact": "Gilgit-Baltistan's valleys are surprisingly fertile oases. Villages like Karimabad in Hunza are famous for their orchards of apricots, apples, cherries, and walnuts irrigated by glacier meltwater. Locals have grown food in these valleys for generations, disproving the idea of a barren land.",
+    "reflect": "Between stone and sky lie ribbons of green — terraced fields that feed both body and hope."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "azad kashmir war zone",
+      "kashmir only conflict",
+      "no peace azad kashmir"
+    ],
+    "fact": "Azad Jammu & Kashmir (AJK) is largely peaceful and known for its stunning natural beauty. Places like Neelum Valley, with its clear rivers and forests, and the hill station of Pir Chinasi attract many tourists, reflecting normal life beyond the headlines of conflict.",
+    "reflect": "In the verdant valleys of Kashmir, the only battles most hear are between a bird's song and the sound of a distant waterfall."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "no culture azad kashmir",
+      "azad kashmir just like punjab"
+    ],
+    "fact": "Azad Kashmir has its own distinct culture. The Pahari language (and related dialects) is commonly spoken here, traditional Kashmiri crafts like pashmina shawl-weaving and wood carving are practiced, and folk songs and dances unique to the Himalayan foothills are part of its heritage.",
+    "reflect": "Under the cedar trees, a fiddle starts a tune that you won't hear on any plain — it belongs to these hills alone."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "no education azad kashmir",
+      "azad kashmir illiterate"
+    ],
+    "fact": "Education is valued in AJK: the region boasts one of Pakistan's highest literacy rates. It has universities (like AJK University in Muzaffarabad) and colleges in every district. Many Azad Kashmiris pursue higher education and join Pakistan's civil services and professions.",
+    "reflect": "Books find their way even up winding mountain paths — curiosity climbs higher than any peak."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "azad kashmir no cities",
+      "all villages azad kashmir"
+    ],
+    "fact": "Azad Kashmir has bustling urban centers such as Muzaffarabad (the capital, with bazaars and offices) and Mirpur (a city known for its overseas Pakistani community and modern amenities). It's not just rural hamlets; cities and towns are an integral part of AJK's landscape.",
+    "reflect": "Between forested slopes appear towns alive with chatter and trade — even in the mountains, community builds like bricks in a wall."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "azad kashmir isolated",
+      "no connection azad kashmir"
+    ],
+    "fact": "Azad Kashmir is well-connected by road to Pakistan's major cities and even has an international airport nearby (Sialkot Airport serves Mirpur region). Modern infrastructure like the Kohala hydropower project and cellular networks extend into AJK, linking it with the wider world.",
+    "reflect": "No valley is forever hidden — eventually roads and rivers find a way in, carrying both travelers and tales."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "only muslims azad kashmir",
+      "no diversity azad kashmir"
+    ],
+    "fact": "Azad Kashmir's population is predominantly Muslim, but within that are diverse sects and cultural practices. There are Sufi shrines in AJK that attract devotees, and small pockets of other faiths (like Sikh and Christian communities) also reside here, reflecting more pluralism than outsiders assume.",
+    "reflect": "The valley welcomes whoever comes in peace; the soil does not ask which prayer you whisper."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "azad kashmir no heritage",
+      "nothing historic azad kashmir"
+    ],
+    "fact": "Azad Kashmir has a rich heritage: ancient Hindu temples like Sharda Peeth ruins stand as testament to learning centers of old, and forts such as Red Fort in Muzaffarabad (built in 17th century) show that this land had its own princes and storytellers long before modern times.",
+    "reflect": "Ruins on the riverside and stones on the hill carry the memory of a kingdom that once was, echoing through time."
+  },
+  {
+    "region": "Azad Kashmir",
+    "triggers": [
+      "azad kashmir unsafe travel",
+      "no tourists azad kashmir"
+    ],
+    "fact": "Tourism is flourishing in AJK due to its safety and scenery. Each year, domestic tourists flock to spots like Banjosa Lake, Rawalakot and the snowy peaks of Leepa Valley. Guesthouses and guides operate widely, indicating that travel is welcome and common in these parts.",
+    "reflect": "When the morning mist lifts off the pine forests, it reveals not ghosts of war but groups of picnickers brewing tea by the stream."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "islamabad no culture",
+      "capital city boring",
+      "islamabad just bureaucrats"
+    ],
+    "fact": "Islamabad may be a modern planned city, but it hosts rich culture: the Lok Virsa Museum and annual folk festival celebrate all Pakistani heritages, and the city's diverse population (diplomats, students, workers from every province) creates a unique blend of traditions in food, art, and music.",
+    "reflect": "In the city built from scratch, every citizen brought a little piece of home — and so the culture mosaic was laid."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "no history islamabad",
+      "islamabad brand new only"
+    ],
+    "fact": "Long before it became Pakistan's capital in 1960s, the area around Islamabad had history: nearby Taxila was a great ancient city of Gandhara (with ruins dating  to 500 BCE), and Saidpur Village (now within Islamabad) has roots going back over 400 years. The capital sits among echoes of the past.",
+    "reflect": "A modern capital rises, but under its foundations lie the whispers of ancient students and monks from Taxila's age."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "islamabad not scenic",
+      "no nature islamabad"
+    ],
+    "fact": "Islamabad is one of South Asia's greenest cities. The Margalla Hills National Park is within the city, teeming with hiking trails, wildlife (leopards, deer, rare birds), and panoramic viewpoints. It defies the idea that a capital must be a concrete jungle — here nature and city co-exist closely.",
+    "reflect": "Above the Parliament, the eagle soars in the same blue sky — reminding the city below of the wild heart of its hills."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "islamabad unsafe",
+      "terrorism islamabad"
+    ],
+    "fact": "Islamabad is considered one of the safest cities in Pakistan today, with strict security and low crime rates. It routinely hosts international conferences and diplomats. While no place is immune to incidents, daily life in Islamabad is generally calm, orderly, and secure for residents and visitors.",
+    "reflect": "Peace has a quiet sound — the everyday hum of a city at work and at play, undisturbed by fear."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "islamabad all wealthy",
+      "no poor in islamabad"
+    ],
+    "fact": "Islamabad is often associated with affluence and indeed has many upscale areas, but it's also home to people from all economic classes — from students and laborers to middle-class professionals. The city has regular bazaars, affordable eateries, and working-class neighborhoods alongside its elite sectors.",
+    "reflect": "Under the same evening sky, the city's lights glow in mansions and modest quarters alike — stars don't choose where to shine."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "only urdu islamabad",
+      "no diversity islamabad"
+    ],
+    "fact": "Being a microcosm of Pakistan, Islamabad's residents speak every major Pakistani language. Walk through a market and you'll hear Urdu, Pashto, Punjabi, Sindhi, English and more. People from all provinces live and work here, giving lie to the notion of a monolingual, monocultural capital.",
+    "reflect": "If you close your eyes in Islamabad's bazaar, the chorus of hellos and yaar and janab will take you on a journey across an entire country."
+  },
+  {
+    "region": "Islamabad Capital Territory",
+    "triggers": [
+      "no nightlife islamabad",
+      "nothing fun islamabad"
+    ],
+    "fact": "Islamabad is quieter than Karachi or Lahore, but it has its own nightlife: vibrant restaurants in Kohsar Market, live music and comedy at cafes, and night hiking up Trial 5 under moonlight. It's a city for bookshops and chai gatherings — a subtler social scene, but not a void.",
+    "reflect": "Under streetlights and stars, friends in Islamabad share laughs over tea — a gentle nightlife that leaves warm memories."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "all british food bland",
+      "british cuisine no taste",
+      "uk food is terrible"
+    ],
+    "fact": "British cuisine is more varied than the stereotype. Traditional dishes span rich flavors — think savory pies, aged cheeses, fish with malt vinegar — and Britain's multicultural society means you'll find Indian curries, Caribbean stews, and more. (Fun fact: Chicken tikka masala, a flavorful curry, is often called Britain's national dish.) Bland it is not.",
+    "reflect": "In a London kitchen, curry simmering next to shepherd's pie tells the story of an island seasoned by the world."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "brits bad teeth",
+      "british people unhealthy"
+    ],
+    "fact": "The notion of universally 'bad teeth' is outdated. The UK has high dental care standards; studies often show British dental health is on par with or better than many other developed nations. Stereotypes from old TV jokes don't reflect the braces and bright smiles you'll actually see in Britain today.",
+    "reflect": "A smile is a smile, British or otherwise — and kindness shines more than enamel ever could."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "uk always raining",
+      "british weather constant rain"
+    ],
+    "fact": "It doesn't rain as much as people think. London, for instance, gets about 23 inches of rain a year, which is less than New York City's ~50 inches. The UK has plenty of grey days, but also stretches of sunshine — especially in summer and in drier regions like East Anglia.",
+    "reflect": "The rain in Britain teaches its people to cherish the sun — and carry on through the drizzles with a wink."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "uk = england only",
+      "scotland not country uk"
+    ],
+    "fact": "The United Kingdom is a union of four countries: England, Scotland, Wales, and Northern Ireland, each with distinct culture and even their own native languages (e.g. Welsh, Scottish Gaelic, Irish) alongside English. So, the UK is far more than just England.",
+    "reflect": "Four countries share one kingdom as four siblings under one roof — each proud of their own story, yet writing a shared chapter."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "britain no music culture",
+      "uk only rock music"
+    ],
+    "fact": "The UK has hugely influenced music globally — not just rock (Beatles, Stones) but also classical (composers like Elgar), folk (Celtic tunes in Scotland and Ireland), and modern pop, grime, and electronic scenes. From Welsh choirs to London punk to Bollywood-influenced bhangra in Birmingham, the UK's music culture is vibrant and diverse.",
+    "reflect": "On a small rainy island, an endless soundtrack plays — centuries of tunes mixing and taking flight far beyond its shores."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "british empire nostalgia",
+      "no diversity uk"
+    ],
+    "fact": "Modern Britain is one of the most multicultural societies in Europe. People of Caribbean, South Asian, African, Eastern European, and many other ancestries are Britons. About 14% of the UK population is non-white, and over 300 languages are spoken in London. The nation is continually reshaped by diversity, not stuck in an imperial past.",
+    "reflect": "The streets of Britain carry aromas and accents from all over the world — a reminder that the empire's legacy now lives in its people's unity."
+  },
+  {
+    "region": "United Kingdom",
+    "triggers": [
+      "britain aristocrats only",
+      "class system rigid uk"
+    ],
+    "fact": "While class differences exist, the UK today is far more socially mobile than in Dickens' time. Most Brits are middle-class, and education/work opportunities allow many to move up. The image of a strict class-bound society of lords and commoners is largely outdated — modern Brits mingle across old class lines (even the accent divide is blurring).",
+    "reflect": "The old class fences have gaps now; people find common ground in the queue, at the pub, and over a game of footy."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans individualistic",
+      "no community usa",
+      "americans selfish"
+    ],
+    "fact": "Americans highly value individual rights, but community spirit runs deep too. About one in four Americans formally volunteer in their community, and mutual aid—from neighborhood potlucks to charity drives—is common. The culture prizes both personal freedom and helping one's neighbor.",
+    "reflect": "The lone cowboy image rides alongside barn-raisings and bake sales — individuality and community can sit at the same table."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans obese",
+      "american food unhealthy only"
+    ],
+    "fact": "The US has a diverse food landscape. Yes, fast food is common, but there's also a growing health food movement and millions of Americans who eat mindfully. Every cuisine in the world is available in America's cities. From farmers' markets to salad bars, not all American food is burgers and fries — and not all Americans fit the obesity stereotype (many are very fitness-conscious).",
+    "reflect": "In a land of plenty, choices abound — and many choose the path of health, proving you can't judge a cookbook by its cover."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans rich",
+      "usa everyone wealthy"
+    ],
+    "fact": "The US has great wealth, but it's unevenly distributed. Many Americans live paycheck to paycheck, and a significant percentage fall below the poverty line. From Appalachian small towns to inner-city neighborhoods, poverty exists. The glitzy Hollywood and Manhattan lifestyles are not the norm for the average American.",
+    "reflect": "In the shadow of skyscrapers, there are homes with leaky roofs; the American dream shines, but some still struggle to catch its light."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans monolingual",
+      "no other languages usa"
+    ],
+    "fact": "The US has no official federal language. English is primary, but over 20% of Americans speak a language other than English at home (Spanish being the second-most common). Cities like Miami, Los Angeles, and New York are proudly multilingual, dispelling the notion that Americans only speak English.",
+    "reflect": "On Main Street you might hear English, Spanish, Chinese, Arabic all in a block — a chorus of voices weaving the American story."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "american culture = hollywood only",
+      "usa no traditional culture"
+    ],
+    "fact": "American culture includes rich folk traditions and regional heritage: Native American powwows, Southern bluegrass music, New England town fairs, Hawaiian hula, cowboy poetry in the West — it's not just Hollywood and pop. Each region has customs passed down through generations, forming a tapestry beyond the silver screen.",
+    "reflect": "From the powwow drum to the cowboy's campfire song, the heartbeats of America echo older and deeper than the latest blockbuster."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans gun-loving",
+      "usa violent society"
+    ],
+    "fact": "It's true the US has a gun culture, but the majority of Americans do not own guns, and many advocate for gun control and peaceful communities. American society is large and varied — there are hunters and sport shooters, but also millions who've never touched a gun. The country's character can't be reduced to Wild West tropes.",
+    "reflect": "A nation's soul cannot be gauged by its holsters, but by the open hands it extends — and many in America carry kindness as their weapon of choice."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans are christian",
+      "no other religions usa"
+    ],
+    "fact": "While about 70% of Americans identify as Christian, the US is religiously diverse. There are sizable communities of Jews, Muslims, Hindus, Buddhists, Sikhs, atheists, and more. Freedom of religion is a core value. American life includes Christmas and Easter, yes, but also Diwali festivals, Ramadan iftars, and everything in between.",
+    "reflect": "Under the same flag, church bells ring on Sunday, temple gongs on Tuesday, and silence on the atheist's porch — all respected in the mosaic."
+  },
+  {
+    "region": "United States",
+    "triggers": [
+      "all americans are cowboys",
+      "usa just western culture"
+    ],
+    "fact": "Only a small portion of Americans live in the stereotypical 'cowboy' West these days. Most reside in suburbs and cities, working in offices, shops, factories — not riding horses on ranches. American culture is urban and high-tech as much as it is rural and rustic. The cowboy icon is part of myth and history, not daily reality for most.",
+    "reflect": "The cowboy's spirit of independence lives on, but now you might find it in a startup founder or an artist — the hats have changed, not the heart."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "all indians are hindu",
+      "no minorities india",
+      "india only hindu country"
+    ],
+    "fact": "India is about 80% Hindu, but it's also home to over 200 million Muslims (the world's third-largest Muslim population), as well as millions of Christians, Sikhs, Buddhists, Jains, and others. It's officially a secular republic, and all major religions have deep roots in Indian soil.",
+    "reflect": "The Ganges flows past temple and mosque alike — India's spirit carries many faiths on its journey."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "all indians vegetarian",
+      "no meat in india"
+    ],
+    "fact": "Many Indians are vegetarian (especially among Hindus, Jains, some Buddhists), but a majority are not. India has a huge variety of non-veg cuisines: tandoori chicken in the north, fish curry in Bengal, spicy chettinad chicken in the south. The notion that all 1.4 billion Indians eat only plants is a myth.",
+    "reflect": "From the holy cows that roam to the fish markets by the sea, India's food is as diverse as its people — united by flavor, not uniformity."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "india all poverty",
+      "only slums india",
+      "india not developed"
+    ],
+    "fact": "India has significant poverty, but it also has a growing middle class and booming cities. It launches satellites to Mars, hosts a thriving tech industry in Bangalore and Hyderabad, and has modern infrastructure alongside the slums. The imagery of only slums ignores India's modern malls, metros, and millions lifted out of poverty in recent decades.",
+    "reflect": "A lotus grows in muddy water — from trials rise successes. India's story is not one of poverty alone, but of striving and ascent."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "all indian women saree",
+      "no modern clothes india"
+    ],
+    "fact": "Indian women wear all sorts of attire. In cities, it's common to see women in jeans, dresses, or business suits, not just sarees or salwar-kameez. Traditional wear is cherished and worn at special occasions, but the idea that Indian women don't wear modern clothes is outdated. India's fashion scene blends the traditional with the global chic.",
+    "reflect": "In a Mumbai morning you'll see a sari and sneakers stride side by side — each comfortable in its own style."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "caste still everything",
+      "no change caste india"
+    ],
+    "fact": "Caste is a complex reality in India, but it is not the all-defining force in modern urban life as outsiders think. Legal equality is enshrined, inter-caste marriage is on the rise (especially in cities), and affirmative action has created a new Dalit middle class. While caste discrimination sadly persists in parts, India has been actively working to diminish its impact for decades.",
+    "reflect": "Ancient walls can take long to fall, but each generation of India carries another brick away, slowly opening the view to a fairer sky."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "india no diversity, one culture",
+      "all indians the same"
+    ],
+    "fact": "India is famously diverse. It has 22 official languages (and hundreds of dialects), multiple scripts, vastly different cuisines, and every state has its own identity (Punjabis vs. Tamilians vs. Bengalis, etc.). From snowy Kashmir to tropical Kerala, India is more like a continent of cultures than a single homogeneous country.",
+    "reflect": "A subcontinent wears a million colors — each region a thread in the grand tapestry that is India."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "bollywood = all india",
+      "no other cinema india"
+    ],
+    "fact": "Bollywood (Hindi film industry) is just one part of Indian cinema. India has the world's largest film output with thriving regional cinemas: Tollywood (Telugu), Kollywood (Tamil), Mollywood (Malayalam), Bengali cinema, and more. Many Indians prefer regional-language films; the industry is far from monolithic.",
+    "reflect": "In the projector's light, myriad stories dance in dozens of tongues — India's silver screen is a mosaic, not a mirror."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "all indians good at math",
+      "indians math geniuses stereotype"
+    ],
+    "fact": "Indians, like any people, have varied talents. India has produced great mathematicians, yes, but it's also home to artists, athletes, writers — and plenty who are just average at math. The education emphasis on math/science is strong for some, but it's incorrect to think every Indian is a math whiz by default.",
+    "reflect": "Stars shine in the Indian sky in every constellation — some in numbers and science, others in arts and humanity."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "indians worship cows only",
+      "cows everywhere in india"
+    ],
+    "fact": "Cows are considered sacred by Hindus and you do see stray cows in Indian streets, but India is not literally overrun by cows. Many cities have strict regulations and most dairy cows are kept in sheds. Also, a significant minority of Indians (Muslims, Christians, etc.) do consume beef or buffalo meat. The cow image is symbolic and doesn't wholly dominate daily life as imagined.",
+    "reflect": "Amid honking traffic, a calm cow may wander — a gentle reminder of tradition in a rapidly moving world."
+  },
+  {
+    "region": "India",
+    "triggers": [
+      "india unsafe for women",
+      "women can't travel india"
+    ],
+    "fact": "India, like many countries, faces issues of gender-based violence that get global attention, but millions of women travel, work late, and live their lives in India every day. Cities have women-only subway coaches and police initiatives for safety. The vast majority of visits by female tourists to India are trouble-free, and Indian women themselves are pushing boundaries in all fields.",
+    "reflect": "The night may have its shadows, but Indian women continue to step forward, carrying a light of their own making."
+  },
+  {
+    "region": "China",
+    "triggers": [
+      "all chinese look same",
+      "china one ethnicity"
+    ],
+    "fact": "China officially recognizes 56 ethnic groups. The Han are the majority (~90%), but there are sizable minorities like the Zhuang (over 16 million), Uyghurs, Hui, Tibetans, Mongols, and many others, each with distinct features, languages, and cultures. China is multi-ethnic, not a monoculture of identical people.",
+    "reflect": "From the steppe to the jungle, the face of China changes — a hundred hues under one sky, united by a shared horizon."
+  },
+  {
+    "region": "China",
+    "triggers": [
+      "no religion china",
+      "china atheist only"
+    ],
+    "fact": "While China is officially secular/atheist as a state policy, many spiritual traditions thrive. Buddhism, Taoism, Islam, Christianity, and folk religions have millions of followers each in China. Temples, mosques, and churches remain active. Traditional practices like ancestor worship and feng shui also reflect spiritual life beyond the stereotype of complete atheism.",
+    "reflect": "Incense curls in a quiet temple courtyard, a call to prayer echoes in the city — the soul of China still seeks meaning between earth and sky."
+  },
+  {
+    "region": "China",
+    "triggers": [
+      "all chinese are communist",
+      "no diversity thought china"
+    ],
+    "fact": "Politically, China has one ruling party, but Chinese people hold a range of opinions and philosophies in private. Urban youth, rural elders, entrepreneurs, and artists all have diverse worldviews. Online, Chinese netizens vigorously debate (within censorship limits) everything from pop culture to environmental issues. The stereotype of robotic ideological conformity doesn't capture daily reality.",
+    "reflect": "Beneath the uniform canopy of bamboo, each stalk grows in its own direction — so do minds, even when the forest seems one."
+  },
+  {
+    "region": "China",
+    "triggers": [
+      "chinese all good at math",
+      "china only engineers"
+    ],
+    "fact": "China emphasizes math education, but its 1.4 billion people have a full spectrum of talents. China also produces world-class poets, painters, athletes, chefs — not just engineers and math whizzes. It's a land of pianists and kung fu masters, novelists and innovators. Reducing the Chinese to only math prowess sells short their rich human complexity.",
+    "reflect": "On a Chinese palette, numbers are but one color; the full painting includes every shade of human creativity and skill."
+  },
+  {
+    "region": "China",
+    "triggers": [
+      "all chinese live in cities",
+      "no rural life china"
+    ],
+    "fact": "Hundreds of millions in China still live in rural areas. Terraced rice paddies in Yunnan, yak herders in Tibet, fishermen on the coast — traditional village life persists robustly alongside the megacities. In fact, China only recently became just over 60% urban, meaning a substantial minority are rural and maintain old ways of life.",
+    "reflect": "Under the same moon that shines over Shanghai's skyline, a farmer in Guizhou guides his buffalo — two worlds in one country sharing the night."
+  },
+  {
+    "region": "China",
+    "triggers": [
+      "mandarin = only language",
+      "no other languages china"
+    ],
+    "fact": "Mandarin is the official language, but China has many languages and dialects. Cantonese is spoken by tens of millions in Guangdong/Hong Kong, Shanghainese in Shanghai, Minnan (Hokkien) in Fujian/Taiwan, plus minority languages like Uyghur, Tibetan, Mongolian, Zhuang, etc. Linguistic diversity in China is vast, far beyond just standard Mandarin.",
+    "reflect": "In a Xinjiang market or a Guangzhou alley, you may not understand the words — a reminder that even a single nation contains multitudes of sound."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "turkish coffee came from europe",
+      "coffee not original turkish"
+    ],
+    "fact": "Turkish coffee is an Ottoman legacy, not a European invention. Coffee was introduced to the Ottoman court in the 16th century (from Yemen) and became central to Turkish culture, long before Europe embraced it. The first coffeehouse in Istanbul opened in 1555, well preceding Viennese coffee culture.",
+    "reflect": "In the thick aroma of a Turkish coffeehouse, one tastes history brewed over centuries."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "turks are arabs",
+      "turkish same as arab"
+    ],
+    "fact": "Turks are a distinct ethnic and linguistic group. The Turkish language is Turkic (related to Central Asian languages) and written in Latin script today, not Arabic. While Turkey is a Muslim-majority country, ethnically and culturally Turks (and Kurds, etc. in Turkey) are different from Arabs. For example, Turkey has its own customs, from yogurt-based dishes to wedding dances, that are distinct from Arab countries.",
+    "reflect": "The Anatolian sun rises on its own terms — carrying echoes from Central Asia on the breeze, distinct from the desert winds further south."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "all turkish food is kebab",
+      "no variety turkish cuisine"
+    ],
+    "fact": "Turkish cuisine is very diverse. Beyond famous kebabs, there are olive oil-based vegetable dishes (zeytinyağlı), a variety of mezes (appetizers) like hummus and stuffed grape leaves, hearty Anatolian stews, Black Sea region's fish and corn bread, and famous desserts like baklava and künefe. It's a fusion of Mediterranean, Middle Eastern, and Central Asian influences, far from one-note.",
+    "reflect": "From the Aegean's olive groves to the Spice Bazaar's stalls, Turkish flavors carry the memory of many peoples savoring life together."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "turkish language uses arabic script",
+      "no change in turkish writing"
+    ],
+    "fact": "Turkey switched to the Latin alphabet in 1928 as part of Atatürk's reforms. So for nearly a century, Turkish has been written in Latin letters, not the Arabic script of the Ottoman era. This dramatically boosted literacy. Thus, modern Turkish writing looks more like French or German on the page than Arabic.",
+    "reflect": "An old script was left in the past, yet the poetry remained — proving that the soul of a language is not in its letters but in its people."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "all turks are conservative muslims",
+      "no secularism turkey"
+    ],
+    "fact": "Turkey is diverse in religiosity. It is a constitutionally secular republic. Many Turks are observant Muslims, but many are moderate or secular in lifestyle (for example, alcohol is legal and consumed, headscarves are a personal choice not state-mandated). Istanbul and Izmir can feel very liberal, whereas some rural areas are more conservative. There's a spectrum — not a monolith of strict religiosity.",
+    "reflect": "In one family, one sister prays five times, another only on Bayram — yet they break bread together. The crescent moon shines on all, without judging."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "turkey no minorities",
+      "everyone turkish only"
+    ],
+    "fact": "Turkey has significant ethnic minorities: about 15-20% of citizens are Kurdish, and there are Arab, Laz, Armenian, Circassian, and Greek communities, among others. They contribute their music, language (Kurmanji Kurdish, for example, is widely spoken in the southeast), and cuisine to Turkey's mosaic. The idea that Turkey is ethnically homogeneous is a misconception.",
+    "reflect": "Just as a Turkish kilim rug is woven from many colored threads, so too is the nation woven from many peoples' stories."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "hagia sophia is european",
+      "turkey has no old churches"
+    ],
+    "fact": "Istanbul's Hagia Sophia, built in 537 AD, was a Byzantine cathedral long before it became a mosque and now a mosque-museum. Turkey's land is dotted with ancient churches (e.g. in Cappadocia's caves) and synagogues alongside mosques. It reflects Turkey's layered history of Christians, Jews, and others living there — not a place of solely Islamic heritage.",
+    "reflect": "In the silence of Hagia Sophia's dome, one can almost hear both church hymns and Quranic recitation echo — centuries of prayer under one roof."
+  },
+  {
+    "region": "Turkey",
+    "triggers": [
+      "turkish = ottoman exactly",
+      "modern turks same as ottoman empire"
+    ],
+    "fact": "Modern Turkish identity is rooted in the Ottoman legacy but is not identical. After 1923, Turkey embraced many reforms: new alphabet, Western legal codes, no sultan or caliph. Turks today are proud of Ottoman history (architecture, art, cuisine) but are also modern citizens of a nation-state. Life in today's Turkey — from democracy (with elections) to pop music — is quite different from life under the sultans.",
+    "reflect": "A tree honors its roots but grows in new directions — so Turkey remembers its empire days while reaching out for a modern tomorrow."
+  }
+]
