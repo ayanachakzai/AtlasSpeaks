@@ -1,0 +1,15 @@
+# Requirements for Atlas Speaks Chatbot
+
+# External packages (install via pip):
+google-generativeai
+
+# Standard library modules (built-in, no installation needed):
+# - json (for loading datasets)
+# - re (for regex pattern matching)
+# - random (for song selection)
+# - warnings (for suppressing FutureWarnings)
+
+# Installation instructions:
+# pip install google-generativeai
+
+# Add your API key at line 272 in atlas_speaks.py
