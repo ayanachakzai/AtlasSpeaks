@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300;1,9..40,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+@font-face {
+  font-family: 'Humble Nostalgia';
+  src: url('/fonts/humble-nostalgia.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --void: #04060E;
+  --deep: #080E1C;
+  --surface: #0C1428;
+  --glass: rgba(255,255,255,0.04);
+  --glass-mid: rgba(255,255,255,0.06);
+  --glass-border: rgba(255,255,255,0.08);
+  --glass-border-gold: rgba(212,154,20,0.22);
+  --amber: #C87A10;
+  --amber-bright: #E09020;
+  --amber-glow: #F0B040;
+  --ice: #C4D8EE;
+  --frost: #7A96B8;
+  --mist: #48607C;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: #050814;
+  color: var(--ice);
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% 0%, rgba(30,60,140,0.14) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 20% 80%, rgba(10,30,80,0.12) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 30% at 80% 60%, rgba(20,50,100,0.08) 0%, transparent 50%);
+}
