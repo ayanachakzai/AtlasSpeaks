@@ -3,8 +3,6 @@ import sys
 import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
 # Load .env file if present (keeps API key out of shell environment/code)
@@ -66,12 +64,3 @@ def chat(req: ChatRequest):
 def health():
     return {"status": "ok"}
 
-@app.get("/chat")
-def chat_page():
-    return FileResponse("static/chat.html")
-
-@app.get("/about")
-def about_page():
-    return FileResponse("static/about.html")
-
-app.mount("/", StaticFiles(directory="static", html=True), name="static")
