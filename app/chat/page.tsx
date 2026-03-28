@@ -774,6 +774,7 @@ function CompareMode() {
   const [compareLoading, setCompareLoading] = useState(false);
   const [compareError, setCompareError] = useState<string | null>(null);
   const [activeCountry, setActiveCountry] = useState<string | null>(null);
+  const [customInput, setCustomInput] = useState("");
 
   async function handleCountryClick(country: string) {
     setActiveCountry(country);
@@ -833,8 +834,6 @@ function CompareMode() {
       </div>
     );
   }
-
-  const [customInput, setCustomInput] = useState("");
 
   async function handleCustomSubmit() {
     const q = customInput.trim();
